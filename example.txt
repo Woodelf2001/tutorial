@@ -1,0 +1,5 @@
+This is an example file.
+
+This is a new line in the example file.
+
+Another new line in the example file.

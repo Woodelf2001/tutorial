@@ -1,0 +1,4 @@
+This is also an example file.
+
+This is another line in example2.txt.
+Yet another line in example2.txt.
